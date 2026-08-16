@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+chromadb
+pypdf
+python-docx
+pandas
+openpyxl
+python-multipart
+google-generativeai
+pydantic
+pydantic-settings
